@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: gaya
 
 # Authentication
 github_client_id: 596c50b45d77d1f639ec
